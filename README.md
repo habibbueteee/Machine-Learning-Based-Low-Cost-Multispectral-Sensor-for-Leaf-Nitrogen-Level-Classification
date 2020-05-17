@@ -1,1 +1,2 @@
 # Machine-Learning-Based-Low-Cost-Multispectral-Sensor-for-Leaf-Nitrogen-Level-Classification
+In this project a low-cost, quick-read multispectral sensor array a developed to predict N level in leaves non-invasively. The proposed device can capture the reflectance data at 12 different wavelength. We conducted the experiment on canola leaves and spectral data were collected from 87 leaves, subjected to varying levels of N fertilization. For classification, KNN, SVM, decision tree, bagged ensemble tree algorithm were employed to model the reflectance data. 
